@@ -67,7 +67,7 @@ A GitHub account is required.
 
 This textbook is authored and maintained by:
 * Dr. Yong Zhang (Professor, School of Computing, Weber State University)
-* Dr. Dylan Zwick (Professor, School of Computing, Weber State University)
+* Dr. Dylan Zwick (Assistant Professor, School of Computing, Weber State University)
 
 ## 🙌 Acknowledgments
 
