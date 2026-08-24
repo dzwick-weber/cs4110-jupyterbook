@@ -3,6 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - ipython
   - graphviz
-  - python-graphviz
   - ipykernel
+  - jupyter-book
+  - matplotlib
+  - nltk
+  - numpy
+  - svgling
+  - jupyterlab_rise
