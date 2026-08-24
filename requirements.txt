@@ -1,9 +1,0 @@
-ipython
-graphviz
-ipykernel
-jupyter-book
-matplotlib
-nltk
-numpy
-jupyterlab_rise
-svgling
