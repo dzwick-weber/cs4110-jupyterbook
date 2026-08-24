@@ -1,9 +1,9 @@
-IPython
+ipython
 graphviz
-importlib
 ipykernel
 jupyter-book
 matplotlib
 nltk
 numpy
+rise
 svgling
