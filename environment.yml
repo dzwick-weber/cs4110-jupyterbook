@@ -1,4 +1,4 @@
-name: cs4110-env
+name: notebook
 channels:
   - conda-forge
 dependencies:
@@ -6,9 +6,11 @@ dependencies:
   - ipython
   - graphviz
   - ipykernel
-  - jupyter-book
   - matplotlib
   - nltk
   - numpy
-  - svgling
-  - jupyterlab_rise
+  - pip
+  - pip:
+    - jupyter-book
+    - jupyterlab_rise
+    - svgling
